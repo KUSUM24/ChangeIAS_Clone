@@ -1,0 +1,14 @@
+/* Sidebar CSS  */
+.sidebar-main {
+  background-color: #1b2433;
+  color: white;
+  width: 13%;
+  padding: 1% 0%;
+}
+.sidebar-hr {
+  border-top: 1px solid white;
+}
+.sidebar-item {
+  padding: 4% 1% 4% 4%;
+}
+/* Right Main  */
